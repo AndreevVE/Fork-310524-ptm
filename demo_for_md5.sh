@@ -8,6 +8,6 @@ mkdir -p  $pathresult
 		cd $pathresult
 		md5sum $pathcheck/$var >> $pathcheck-md5sum.txt
 	  done
-
+echo "Done"
 
 

@@ -1,5 +1,4 @@
 #!/bin/bash
-
 read -p "Enter path for script: " SCRIPTPATH
 read -p "Enter name for your script: " NAME
 mkdir -p $SCRIPTPATH
